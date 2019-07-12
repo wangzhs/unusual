@@ -1,6 +1,6 @@
 # 日常异常
 
-[TOC]
+<!-- TOC -->autoauto- [日常异常](#日常异常)auto        - [JAVA相关](#java相关)auto            - [java继承对象使用lombok @Data注解错误](#java继承对象使用lombok-data注解错误)autoauto<!-- /TOC -->
 
 ### JAVA相关
 
