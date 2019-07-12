@@ -1,10 +1,8 @@
-Table of Contents  git支持3个空格，本地支持2个空格
-=================
+* [日常异常](#日常异常)
+  * [JAVA相关](#java相关)
+    * [java继承对象使用lombok @Data注解错误](#java继承对象使用lombok-data注解错误)
+    * [spring打包jar读取resource资源读取为空](#spring打包jar读取resource资源读取为空)
 
-   * [日常异常](#日常异常)
-         * [JAVA相关](#java相关)
-            * [java继承对象使用lombok @Data注解错误](#java继承对象使用lombok-data注解错误)
-            * [spring打包jar读取resource资源读取为空](#spring打包jar读取resource资源读取为空)
             
 # 日常异常
 
